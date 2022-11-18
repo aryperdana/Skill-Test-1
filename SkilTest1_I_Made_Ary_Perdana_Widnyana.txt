@@ -1,4 +1,4 @@
-Nama : Bambang
-Umur : 25 Tahun
+Nama : I Gede Made Ary Perdana Widnyana
+Umur : 22 Tahun
 Stack : Frontend
 Bahasa Pemrograman : Javascript, PHP
