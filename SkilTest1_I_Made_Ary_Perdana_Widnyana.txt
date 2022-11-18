@@ -1,0 +1,4 @@
+Nama : Bambang
+Umur : 25 Tahun
+Stack : Frontend
+Bahasa Pemrograman : Javascript, PHP
